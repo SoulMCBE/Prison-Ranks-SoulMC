@@ -1,0 +1,21 @@
+prefix: "&b&lPrisonRanks &8» &7"
+
+only-player: "&cOnly players can use this command."
+no-permission: "&cYou do not have permission."
+economy-missing: "&cVault economy not found."
+
+rankup-success: "&aYou ranked up to &e%rank%&a."
+rankup-max-success: "&aYou ranked up &e%amount% &atimes. Your rank is now &e%rank%&a."
+rankup-no-next: "&cYou are already at the maximum rank."
+rankup-not-enough: "&cYou need &e$%cost% &cto rank up to &e%rank%&c."
+
+prestige-not-max-rank: "&cYou must be max rank before you can prestige."
+prestige-maxed: "&cYou already reached the maximum prestige."
+prestige-success: "&aYou prestiged to &eP%prestige% &aand reset back to rank &e%rank%&a."
+
+rebirth-not-max-rank: "&cYou must be max rank before you can rebirth."
+rebirth-not-enough-prestige: "&cYou need at least &e%required% prestiges &cto rebirth."
+rebirth-not-enough-money: "&cYou need &e$%cost% &cto rebirth."
+rebirth-success: "&aYou rebirthed to &eR%rebirth%&a. Your rank and prestige were reset."
+
+player-stats: "&7Rank: &e%rank% &8| &7Prestige: &e%prestige% &8| &7Rebirth: &e%rebirth%"

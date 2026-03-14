@@ -1,0 +1,27 @@
+name: PrisonRanks
+version: '1.0.0'
+main: me.SoulMC.prisonRanks.PrisonRanks
+api-version: '1.21'
+depend:
+  - Vault
+
+commands:
+  rankup:
+    description: Rank up to the next prison rank
+    usage: /rankup [max]
+    aliases: [ru]
+  prestige:
+    description: Prestige after reaching max rank
+    usage: /prestige
+  rebirth:
+    description: Rebirth after reaching requirements
+
+permissions:
+  prisonranks.rankup:
+    default: true
+  prisonranks.prestige:
+    default: true
+  prisonranks.rebirth:
+    default: true
+  prisonranks.admin:
+    default: op

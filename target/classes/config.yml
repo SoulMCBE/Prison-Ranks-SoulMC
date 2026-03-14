@@ -1,0 +1,61 @@
+settings:
+  starting-rank: "A"
+  max-prestige: 10
+
+rebirth:
+  required-prestige: 10
+  cost: 100000000.0
+
+ranks:
+  A:
+    cost: 0
+  B:
+    cost: 10000
+  C:
+    cost: 25000
+  D:
+    cost: 60000
+  E:
+    cost: 120000
+  F:
+    cost: 250000
+  G:
+    cost: 500000
+  H:
+    cost: 1000000
+  I:
+    cost: 2000000
+  J:
+    cost: 3500000
+  K:
+    cost: 5000000
+  L:
+    cost: 7500000
+  M:
+    cost: 10000000
+  N:
+    cost: 15000000
+  O:
+    cost: 20000000
+  P:
+    cost: 27500000
+  Q:
+    cost: 35000000
+  R:
+    cost: 45000000
+  S:
+    cost: 60000000
+  T:
+    cost: 75000000
+  U:
+    cost: 90000000
+  V:
+    cost: 110000000
+  W:
+    cost: 130000000
+  X:
+    cost: 155000000
+  Y:
+    cost: 180000000
+  Z:
+    cost: 220000000
