@@ -1,9 +1,0 @@
-me\SoulMC\prisonRanks\data\DataManager.class
-me\SoulMC\prisonRanks\PrisonRanks.class
-me\SoulMC\prisonRanks\data\PlayerData.class
-me\SoulMC\prisonRanks\listener\PlayerJoinListener.class
-me\SoulMC\prisonRanks\command\RankupCommand.class
-me\SoulMC\prisonRanks\command\RebirthCommand.class
-me\SoulMC\prisonRanks\manager\RankManager.class
-me\SoulMC\prisonRanks\util\MessageUtil.class
-me\SoulMC\prisonRanks\command\PrestigeCommand.class
